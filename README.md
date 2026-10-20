@@ -1,4 +1,4 @@
 # demo-repo
 This is my first repository
 <br>
-Author: Kajal Tripathi
+Author: Kajal Tripathi(MIT)
